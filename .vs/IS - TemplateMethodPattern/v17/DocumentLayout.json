@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS - TemplateMethodPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B682D398-8BA1-4AA4-A6EC-93CCB926FF6F}|IS - TemplateMethodPattern\\IS - TemplateMethodPattern.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\is - templatemethodpattern\\is - templatemethodpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682D398-8BA1-4AA4-A6EC-93CCB926FF6F}|IS - TemplateMethodPattern\\IS - TemplateMethodPattern.csproj|solutionrelative:is - templatemethodpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS-CompositePattern\\IS-CompositePattern\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682D398-8BA1-4AA4-A6EC-93CCB926FF6F}|IS - TemplateMethodPattern\\IS - TemplateMethodPattern.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\is - templatemethodpattern\\is - templatemethodpattern\\obradastandardnogtereta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682D398-8BA1-4AA4-A6EC-93CCB926FF6F}|IS - TemplateMethodPattern\\IS - TemplateMethodPattern.csproj|solutionrelative:is - templatemethodpattern\\obradastandardnogtereta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682D398-8BA1-4AA4-A6EC-93CCB926FF6F}|IS - TemplateMethodPattern\\IS - TemplateMethodPattern.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\is - templatemethodpattern\\is - templatemethodpattern\\obradahladnogtereta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682D398-8BA1-4AA4-A6EC-93CCB926FF6F}|IS - TemplateMethodPattern\\IS - TemplateMethodPattern.csproj|solutionrelative:is - templatemethodpattern\\obradahladnogtereta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682D398-8BA1-4AA4-A6EC-93CCB926FF6F}|IS - TemplateMethodPattern\\IS - TemplateMethodPattern.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\is - templatemethodpattern\\is - templatemethodpattern\\obradanarudzbine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682D398-8BA1-4AA4-A6EC-93CCB926FF6F}|IS - TemplateMethodPattern\\IS - TemplateMethodPattern.csproj|solutionrelative:is - templatemethodpattern\\obradanarudzbine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B682D398-8BA1-4AA4-A6EC-93CCB926FF6F}|IS - TemplateMethodPattern\\IS - TemplateMethodPattern.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\is - templatemethodpattern\\is - templatemethodpattern\\narudzbina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B682D398-8BA1-4AA4-A6EC-93CCB926FF6F}|IS - TemplateMethodPattern\\IS - TemplateMethodPattern.csproj|solutionrelative:is - templatemethodpattern\\narudzbina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObradaHladnogTereta.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS - TemplateMethodPattern\\IS - TemplateMethodPattern\\ObradaHladnogTereta.cs",
+              "RelativeDocumentMoniker": "IS - TemplateMethodPattern\\ObradaHladnogTereta.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS - TemplateMethodPattern\\IS - TemplateMethodPattern\\ObradaHladnogTereta.cs",
+              "RelativeToolTip": "IS - TemplateMethodPattern\\ObradaHladnogTereta.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAvwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:44:17.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS-CompositePattern\\IS-CompositePattern\\Program.cs",
+              "RelativeDocumentMoniker": "..\\IS-CompositePattern\\IS-CompositePattern\\Program.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS-CompositePattern\\IS-CompositePattern\\Program.cs",
+              "RelativeToolTip": "..\\IS-CompositePattern\\IS-CompositePattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:32:12.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Narudzbina.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS - TemplateMethodPattern\\IS - TemplateMethodPattern\\Narudzbina.cs",
+              "RelativeDocumentMoniker": "IS - TemplateMethodPattern\\Narudzbina.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS - TemplateMethodPattern\\IS - TemplateMethodPattern\\Narudzbina.cs",
+              "RelativeToolTip": "IS - TemplateMethodPattern\\Narudzbina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:09:02.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObradaStandardnogTereta.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS - TemplateMethodPattern\\IS - TemplateMethodPattern\\ObradaStandardnogTereta.cs",
+              "RelativeDocumentMoniker": "IS - TemplateMethodPattern\\ObradaStandardnogTereta.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS - TemplateMethodPattern\\IS - TemplateMethodPattern\\ObradaStandardnogTereta.cs",
+              "RelativeToolTip": "IS - TemplateMethodPattern\\ObradaStandardnogTereta.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwBMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:05:20.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObradaNarudzbine.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS - TemplateMethodPattern\\IS - TemplateMethodPattern\\ObradaNarudzbine.cs",
+              "RelativeDocumentMoniker": "IS - TemplateMethodPattern\\ObradaNarudzbine.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS - TemplateMethodPattern\\IS - TemplateMethodPattern\\ObradaNarudzbine.cs",
+              "RelativeToolTip": "IS - TemplateMethodPattern\\ObradaNarudzbine.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:59:19.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS - TemplateMethodPattern\\IS - TemplateMethodPattern\\Program.cs",
+              "RelativeDocumentMoniker": "IS - TemplateMethodPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\IS - TemplateMethodPattern\\IS - TemplateMethodPattern\\Program.cs",
+              "RelativeToolTip": "IS - TemplateMethodPattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:58:36.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

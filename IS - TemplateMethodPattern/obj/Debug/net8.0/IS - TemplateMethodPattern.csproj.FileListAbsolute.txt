@@ -1,0 +1,14 @@
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS - TemplateMethodPattern\IS - TemplateMethodPattern\bin\Debug\net8.0\IS - TemplateMethodPattern.exe
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS - TemplateMethodPattern\IS - TemplateMethodPattern\bin\Debug\net8.0\IS - TemplateMethodPattern.deps.json
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS - TemplateMethodPattern\IS - TemplateMethodPattern\bin\Debug\net8.0\IS - TemplateMethodPattern.runtimeconfig.json
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS - TemplateMethodPattern\IS - TemplateMethodPattern\bin\Debug\net8.0\IS - TemplateMethodPattern.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS - TemplateMethodPattern\IS - TemplateMethodPattern\bin\Debug\net8.0\IS - TemplateMethodPattern.pdb
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS - TemplateMethodPattern\IS - TemplateMethodPattern\obj\Debug\net8.0\IS - TemplateMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS - TemplateMethodPattern\IS - TemplateMethodPattern\obj\Debug\net8.0\IS - TemplateMethodPattern.AssemblyInfoInputs.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS - TemplateMethodPattern\IS - TemplateMethodPattern\obj\Debug\net8.0\IS - TemplateMethodPattern.AssemblyInfo.cs
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS - TemplateMethodPattern\IS - TemplateMethodPattern\obj\Debug\net8.0\IS - TemplateMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS - TemplateMethodPattern\IS - TemplateMethodPattern\obj\Debug\net8.0\IS - TemplateMethodPattern.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS - TemplateMethodPattern\IS - TemplateMethodPattern\obj\Debug\net8.0\refint\IS - TemplateMethodPattern.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS - TemplateMethodPattern\IS - TemplateMethodPattern\obj\Debug\net8.0\IS - TemplateMethodPattern.pdb
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS - TemplateMethodPattern\IS - TemplateMethodPattern\obj\Debug\net8.0\IS - TemplateMethodPattern.genruntimeconfig.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS - TemplateMethodPattern\IS - TemplateMethodPattern\obj\Debug\net8.0\ref\IS - TemplateMethodPattern.dll
